@@ -83,10 +83,10 @@ Useful resources:
 
 * https://github.com/galacticcouncil/HydraDX-security
 * https://apidocs.bsx.fi/HydraDX
-* https://docs.hydradx.io/
-* https://docs.hydradx.io/omnipool_design
-* https://docs.hydradx.io/fees
+* https://docs.hydration.net
+* https://docs.hydration.net/omnipool_design/
+* https://docs.hydration.net/fees/
 
-Bug bounty: [https://immunefi.com/bounty/hydradx/](https://immunefi.com/bounty/hydradx/)
+Bug bounty: [https://immunefi.com/bug-bounty/hydration/](https://immunefi.com/bug-bounty/hydration/)
 
 Reponsible disclosure: security@hydradx.io
